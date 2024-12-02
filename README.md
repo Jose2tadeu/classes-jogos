@@ -27,3 +27,6 @@ Saída
 Ao final deve se exibir uma mensagem:
 
 "o {tipo} atacou usando {ataque}" ex: mago atacou usando magia guerreiro atacou usando espada
+
+Teste de autenticação via ssh
+
